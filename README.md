@@ -6,7 +6,7 @@
 ###### xinsta_brute instagram bruteforce.
 ***
 
-### <p align="center">Commands to run tool in ur terminal
+### <hunainshakoor3@gmail.com>Commands to run tool in ur terminal
 ***
 
 ```bash
